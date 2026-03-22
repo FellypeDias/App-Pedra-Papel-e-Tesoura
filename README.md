@@ -14,3 +14,5 @@ Como rodar o projeto:
 1. Baixe ou clone o repositorio.
 2. Abra a pasta no Android Studio.
 3. Execute o app em um emulador ou no seu proprio celular.
+
+![Interface do Aplicativo](images/interface.png)
